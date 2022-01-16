@@ -1,7 +1,7 @@
 [package]
-name = "kataster"
+name = "invaders_in_asterofield"
 version = "0.6.0"
-authors = ["Boris Boutillier <boris.boutillier@gmail.com>"]
+authors = ["pyweeker working from forks"]
 edition = "2021"
 
 [dependencies]
